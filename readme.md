@@ -1,0 +1,1 @@
+This form validator gave me some headic,i'm not gonna lie. Main assumtion was to write as little if's as possible and to make code as universal as possible. Did i made it?
